@@ -1,0 +1,6 @@
+▿ 1 element
+  ▿ Location
+    - lattLong: "51.506321,-0.12714"
+    - locationType: "City"
+    - title: "London"
+    - woeid: 44418

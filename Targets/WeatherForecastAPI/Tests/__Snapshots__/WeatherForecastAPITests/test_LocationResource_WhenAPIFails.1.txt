@@ -1,0 +1,2 @@
+▿ APIError
+  - unacceptableStatusCode: 500
