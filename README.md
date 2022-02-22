@@ -114,6 +114,6 @@ Like the comment added on the screenshot test file
 
 ## Screenshots
 
-![](docs/imgs/screenshot_city_detail.png)
+![](docs/imgs/screenshot_cities.png)
 
 ![](docs/imgs/screenshot_tomorrow_forecast.png)
